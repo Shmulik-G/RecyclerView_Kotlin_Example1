@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView Kotlin Example1</string>
+    <string name="dizingof_15">Dizingof 15</string>
+    <string name="soly_brain">Soly Brain</string>
+</resources>
